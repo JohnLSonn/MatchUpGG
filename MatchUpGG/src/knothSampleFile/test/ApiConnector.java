@@ -1,4 +1,4 @@
-package xyz.nothost.matchupgg;
+package knothSampleFile.test;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
